@@ -1,2 +1,2 @@
 # actividad-6
-programacion en carlos
+programacion en capas

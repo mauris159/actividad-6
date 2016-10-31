@@ -1,0 +1,2 @@
+c:\users\sena\documents\visual studio 2015\Projects\capas\capas\bin\Debug\capas.exe.config
+C:\Users\SENA\Source\Repos\actividad-6\capas\capas\bin\Debug\capas.exe.config
